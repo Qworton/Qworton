@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qworton
-- 👀 I’m interested in ..Ручное тестирование
+- 👀 I’m interested in ..Manual testing
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..Тестировщиков
+- 💞️ I’m looking to collaborate on ..Testers
 - 📫 How to reach me ...qwort@ro.ru
 
 <!---
